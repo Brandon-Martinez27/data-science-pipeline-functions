@@ -1,5 +1,5 @@
 # Data Science Pipeline Scripts
-- Prewritten python scripts to call within a Jupyter notebook when working on a project. Feel free to use!
+Prewritten python scripts to call within a Jupyter notebook when working on a project. Feel free to use!
 
 ## Contains:
 - acquire.py
